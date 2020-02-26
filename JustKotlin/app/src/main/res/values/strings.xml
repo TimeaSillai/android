@@ -1,0 +1,19 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" translatable="false">Just Kotlin</string>
+    <string name="quantity" translatable="false">Quantity</string>
+    <string name="order" translatable="false">order</string>
+    <string name="price" translatable="false">price</string>
+    <string name="plus" translatable="false">+</string>
+    <string name="minus" translatable="false">-</string>
+    <string name="toppings" translatable="false">Toppings</string>
+    <string name="cream" translatable="false">Whipped cream</string>
+    <string name="chocolate" translatable="false">Chocolate</string>
+    <string name="name" translatable="false">Name</string>
+
+    <string name="email_subject" translatable="false">Just Kotlin order for</string>
+    <string name="add_whipped_cream" translatable="false">Add whipped cream?</string>
+    <string name="add_chocolate" translatable="false">Add chocolate?</string>
+    <string name="total" translatable="false">Total</string>
+    <string name="thank_you" translatable="false">Thank you!</string>
+    <string name="order_summary_name" translatable="false">Name: <xliff:g id="name" example="Amy">%s</xliff:g></string>
+</resources>
